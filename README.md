@@ -1,4 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there! I'm Daniel Pringgo👋 -->
+
+![Daniel Pringgo](img/github-header-banner.png)
 
 <!--
 **danielpringgo/danielpringgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **PT Integra Teknologi**
+- 🌱 I’m currently learning **Kotlin** and **Go** programming language
+
+##### 📫 How to reach me:
